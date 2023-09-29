@@ -25,4 +25,5 @@ The Random Forest Classifier achieved a precision of 99.93%, while the Logistic 
 
 ## Getting Started <a name="gettingstart"></a>
 Clone this repository: git clone https://github.com/JustinLzc/Insurance-Fraud-Predictive-Model
+
 Run the Jupyter Notebook: jupyter notebook Insurance Fraud Predictive Model.ipynb
