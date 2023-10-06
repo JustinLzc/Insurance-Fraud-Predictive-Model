@@ -24,7 +24,7 @@ The dataset used in this project comprises multiple features, including insured 
 **Tools & Libraries:** Leveraged Python with Pandas, Numpy, and Scikit-learn for end-to-end data handling, modeling, and evaluation.
 
 ## Results <a name="result"></a>
-The Random Forest Classifier achieved a precision of **Accuracy: 0.96 (+/- 0.00)**, while the Logistic Regression model achieved a precision of **Accuracy: 0.68 (+/- 0.01)**. These results highlight the capability of the developed models in accurately identifying potential fraud cases.
+The Random Forest Classifier achieved a precision of **Accuracy: 96% (+/- 0.00)**, while the Logistic Regression model achieved a precision of **Accuracy: 68% (+/- 0.01)**. These results highlight the capability of the developed models in accurately identifying potential fraud cases.
 
 ## Getting Started <a name="gettingstart"></a>
 Clone this repository: git clone https://github.com/JustinLzc/Insurance-Fraud-Predictive-Model
